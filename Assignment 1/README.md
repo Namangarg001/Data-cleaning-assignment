@@ -2,6 +2,10 @@ Week 1 - Data Cleaning
 
 Objective
 Perform data exploration and cleaning using Pandas.# Project Objectives
+# Files Included
+- ecommerce_analysis.ipynb
+- cleaned_ecommerce_dataset.csv
+- cleaned_ecommerce_dataset_sample.csv(saving sample csv with first 100 rows as combined_dataset.csv is large and may not be easily visible)
 
 - Load and inspect CSV datasets
 - Explore dataset structure and statistics
