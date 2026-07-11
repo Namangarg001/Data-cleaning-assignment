@@ -1,0 +1,5 @@
+path,name,size,modificationTime
+dbfs:/Volumes/workspace/default/fraud_project/account_summary_export/_SUCCESS,_SUCCESS,0,1783790268000
+dbfs:/Volumes/workspace/default/fraud_project/account_summary_export/_committed_8872912926292836845,_committed_8872912926292836845,113,1783790268000
+dbfs:/Volumes/workspace/default/fraud_project/account_summary_export/_started_8872912926292836845,_started_8872912926292836845,0,1783790268000
+dbfs:/Volumes/workspace/default/fraud_project/account_summary_export/part-00000-tid-8872912926292836845-286d04d8-52d9-4b02-ba8e-a6d0239dc509-136-1-c000.csv,part-00000-tid-8872912926292836845-286d04d8-52d9-4b02-ba8e-a6d0239dc509-136-1-c000.csv,400,1783790268000

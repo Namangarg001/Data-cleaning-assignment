@@ -1,0 +1,5 @@
+path,name,size,modificationTime
+dbfs:/Volumes/workspace/default/fraud_project/gold_export/_SUCCESS,_SUCCESS,0,1783790264000
+dbfs:/Volumes/workspace/default/fraud_project/gold_export/_committed_4526048768848703787,_committed_4526048768848703787,113,1783790264000
+dbfs:/Volumes/workspace/default/fraud_project/gold_export/_started_4526048768848703787,_started_4526048768848703787,0,1783790264000
+dbfs:/Volumes/workspace/default/fraud_project/gold_export/part-00000-tid-4526048768848703787-98fe4c75-0501-44a5-ba69-a2dd343fff1e-134-1-c000.csv,part-00000-tid-4526048768848703787-98fe4c75-0501-44a5-ba69-a2dd343fff1e-134-1-c000.csv,28529,1783790264000
