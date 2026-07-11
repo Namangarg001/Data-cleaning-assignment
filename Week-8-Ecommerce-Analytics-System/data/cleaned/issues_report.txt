@@ -1,0 +1,13 @@
+E-Commerce Analytics System
+==============================
+
+Invalid order dates found: 630
+Missing customer IDs: 61
+Invalid order dates found: 630
+Missing customer IDs: 0
+Products cleaned: 500
+Invalid order dates found: 630
+Missing customer IDs: 0
+Products cleaned: 500
+Invalid Emails Found : 13
+Invalid Order References : 0

@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price,unit_price
+1,Puma Shampoo,Beauty,Shampoo,4653,5081
+2,HP MOBILE,Electronics,Mobile,38390,42516
+3,Boat Face Wash,Beauty,Face Wash,24324,28594
+4,HP JACKET,Clothing,Jacket,10178,14670
+5,Lenovo Perfume,Beauty,Perfume,36655,39821
+6,Lakme Jeans,Clothing,Jeans,40020,42219
+7,Nike Lamp,Home,Lamp,8009,13437
+8,Boat Smart Watch,Electronics,Smart Watch,42890,48493
+9,Dell Biography,Books,Biography,7585,8026
+10,HP Mobile,Electronics,Mobile,49991,54762
+11,Boat Chair,Home,Chair,20081,23137
+12,Boat Lipstick,Beauty,Lipstick,16736,18612
+13,HP Table,Home,Table,12056,19204
+14,Loreal Comics,Books,Comics,21653,25503
+15,Adidas Football,Sports,Football,31668,36362
+16,Apple Lipstick,Beauty,Lipstick,40594,41572
+17,Mamaearth Laptop,Electronics,Laptop,934,8790
+18,Adidas Headphones,Electronics,Headphones,25196,31265
+19,Samsung Shirt,Clothing,Shirt,24320,26183
+20,Apple Programming,Books,Programming,18548,22068
+21,Apple Table,Home,Table,19995,21256
+22,Philips Shirt,Clothing,Shirt,48975,56877
+23,Dell Smart Watch,Electronics,Smart Watch,1140,2162
+24,Mamaearth Jacket,Clothing,Jacket,38196,43988
+25,Loreal Table,Home,Table,37111,41140
+26,HP Lipstick,Beauty,Lipstick,4470,7826
+27,Adidas Laptop,Electronics,Laptop,28543,35446
+28,Boat Shirt,Clothing,Shirt,3085,8563
+29,Loreal Lamp,Home,Lamp,31602,33362
+30,Mamaearth Headphones,Electronics,Headphones,12525,14548
+31,Mamaearth Laptop,Electronics,Laptop,37110,44053
+32,Lakme Tennis Racket,Sports,Tennis Racket,15372,21333
+33,Sony Headphones,Electronics,Headphones,5994,10993
+34,Sony Biography,Books,Biography,43362,50849
+35,Sony Football,Sports,Football,48381,53718
+36,Sony Jacket,Clothing,Jacket,30837,33783
+37,Philips Jacket,Clothing,Jacket,35738,39178
+38,Boat Novel,Books,Novel,16793,24141
+39,Adidas Sofa,Home,Sofa,49594,54111
+40,Sony Shirt,Clothing,Shirt,33384,41006
+41,Boat Lipstick,Beauty,Lipstick,22590,27115
+42,Mamaearth Lipstick,Beauty,Lipstick,37797,39039
+43,Apple Jacket,Clothing,Jacket,27658,34972
+44,PUMA CRICKET BAT,Sports,Cricket Bat,7003,11817
+45,Loreal Football,Sports,Football,15062,20765
+46,Apple Sofa,Home,Sofa,21531,27626
+47,Puma Sofa,Home,Sofa,43250,50062
+48,Loreal Gym Bag,Sports,Gym Bag,26938,32672
+49,Philips Mobile,Electronics,Mobile,42398,46214
+50,Loreal Lipstick,Beauty,Lipstick,239,7655
+51,Adidas Cricket Bat,Sports,Cricket Bat,9660,17262
+52,Lakme Chair,Home,Chair,26815,29396
+53,MAMAEARTH CRICKET BAT,Sports,Cricket Bat,12717,13009
+54,HP Table,Home,Table,12370,19250
+55,Lenovo Laptop,Electronics,Laptop,29861,37751
+56,Samsung Sofa,Home,Sofa,45932,50927
+57,HP Programming,Books,Programming,20108,23718
+58,Philips Novel,Books,Novel,32400,32758
+59,Lenovo Table,Home,Table,46116,50095
+60,Nike Novel,Books,Novel,45327,50236
+61,Samsung Sofa,Home,Sofa,25101,25517
+62,Lenovo Smart Watch,Electronics,Smart Watch,35834,36688
+63,Adidas Face Wash,Beauty,Face Wash,25093,31329
+64,Samsung Tennis Racket,Sports,Tennis Racket,21359,23996
+65,HP Shampoo,Beauty,Shampoo,40420,43883
+66,  Boat Lipstick  ,Beauty,Lipstick,44452,50948
+67,Apple Tennis Racket,Sports,Tennis Racket,33103,34687
+68,Lakme Shampoo,Beauty,Shampoo,35305,40760
+69,Loreal Table,Home,Table,34064,38187
+70,Mamaearth Programming,Books,Programming,10865,11291
+71,Apple Sofa,Home,Sofa,45210,46578
+72,ADIDAS MOBILE,Electronics,Mobile,32066,34206
+73,Lakme Lipstick,Beauty,Lipstick,24888,25347
+74,Mamaearth Shoes,Clothing,Shoes,44963,49843
+75,Lakme Jacket,Clothing,Jacket,46126,53992
+76,Dell Mobile,Electronics,Mobile,8850,15014
+77,Adidas Cricket Bat,Sports,Cricket Bat,32715,35818
+78,Loreal Novel,Books,Novel,34617,42070
+79,Nike Face Wash,Beauty,Face Wash,31241,31615
+80,Apple Tennis Racket,Sports,Tennis Racket,4471,5285
+81,Adidas Perfume,Beauty,Perfume,26501,30755
+82,Samsung Shirt,Clothing,Shirt,10816,11623
+83,Adidas Lipstick,Beauty,Lipstick,43444,48016
+84,Apple Sofa,Home,Sofa,43208,44827
+85,HP Laptop,Electronics,Laptop,13467,14774
+86,Samsung Shampoo,Beauty,Shampoo,24570,25161
+87,Puma Laptop,Electronics,Laptop,43841,46119
+88,Lakme Headphones,Electronics,Headphones,9182,11899
+89,HP Biography,Books,Biography,43718,47707
+90,Dell Shirt,Clothing,Shirt,25618,30248
+91,Dell Cricket Bat,Sports,Cricket Bat,43917,45057
+92,Adidas Shirt,Clothing,Shirt,33845,34539
+93,Mamaearth Jacket,Clothing,Jacket,41200,44263
+94,samsung sofa,Home,Sofa,49507,53144
+95,Samsung Sofa,Home,Sofa,12822,18424
+96,Adidas Sofa,Home,Sofa,39943,46894
+97,Adidas Lipstick,Beauty,Lipstick,40497,48374
+98,HP Biography,Books,Biography,39454,43824
+99,Boat Smart Watch,Electronics,Smart Watch,2225,5743
+100,Lakme Mobile,Electronics,Mobile,42234,42661
+101,Adidas Programming,Books,Programming,42809,49518
+102,Mamaearth Lamp,Home,Lamp,35280,40338
+103,Puma Sofa,Home,Sofa,32167,35429
+104,Adidas Lipstick,Beauty,Lipstick,22290,23135
+105,Lenovo Table,Home,Table,41430,43727
+106,Sony Chair,Home,Chair,21444,28975
+107,Lenovo Shoes,Clothing,Shoes,12772,19636
+108,Lenovo Shampoo,Beauty,Shampoo,17495,22491
+109,Lakme Lipstick,Beauty,Lipstick,40377,47772
+110,HP Perfume,Beauty,Perfume,45230,50949
+111,HP Gym Bag,Sports,Gym Bag,30522,35387
+112,Philips Headphones,Electronics,Headphones,16389,18174
+113,Dell Perfume,Beauty,Perfume,42633,49365
+114,Adidas Jacket,Clothing,Jacket,47192,49509
+115,Dell Programming,Books,Programming,16893,21957
+116,MAMAEARTH SMART WATCH,Electronics,Smart Watch,36289,39609
+117,Adidas Shoes,Clothing,Shoes,30003,37760
+118,Puma Gym Bag,Sports,Gym Bag,37388,40932
+119,Philips Smart Watch,Electronics,Smart Watch,32283,37259
+120,Sony Comics,Books,Comics,8027,9271
+121,Samsung Table,Home,Table,4805,7177
+122,Dell Gym Bag,Sports,Gym Bag,6484,14167
+123,Samsung Biography,Books,Biography,43473,48214
+124,Boat Headphones,Electronics,Headphones,47357,49727
+125,HP Jeans,Clothing,Jeans,40721,45766
+126,  Mamaearth Lamp  ,Home,Lamp,15690,17032
+127,Lakme Gym Bag,Sports,Gym Bag,14609,16116
+128,Puma Biography,Books,Biography,40589,40831
+129,Lakme Headphones,Electronics,Headphones,32067,33187
+130,HP Biography,Books,Biography,30314,35407
+131,Lenovo Jeans,Clothing,Jeans,7237,7362
+132,Boat Sofa,Home,Sofa,39503,46562
+133,Apple Jeans,Clothing,Jeans,5573,9019
+134,Loreal Biography,Books,Biography,25396,32464
+135,Puma Novel,Books,Novel,18007,19787
+136,Lakme Comics,Books,Comics,34536,37440
+137,Mamaearth Comics,Books,Comics,29179,34247
+138,Boat Shirt,Clothing,Shirt,46005,51702
+139,HP Biography,Books,Biography,20792,23785
+140,HP Shoes,Clothing,Shoes,25067,30085
+141,Philips Mobile,Electronics,Mobile,45916,46545
+142,Boat Smart Watch,Electronics,Smart Watch,22821,25866
+143,Loreal Comics,Books,Comics,29384,36932
+144,Sony Programming,Books,Programming,15178,17482
+145,Dell Sofa,Home,Sofa,11245,13140
+146,Mamaearth Lipstick,Beauty,Lipstick,2578,5802
+147,Loreal Shirt,Clothing,Shirt,10604,11460
+148,Lenovo Cricket Bat,Sports,Cricket Bat,5394,9796
+149,Lenovo Biography,Books,Biography,9482,16614
+150,Nike Jeans,Clothing,Jeans,20620,22085
+151,Boat Shirt,Clothing,Shirt,3617,8407
+152,Lenovo Lipstick,Beauty,Lipstick,36109,40061
+153,Samsung Jeans,Clothing,Jeans,13004,18040
+154,Lenovo Laptop,Electronics,Laptop,11913,16387
+155,Loreal Programming,Books,Programming,11925,13276
+156,Lakme Jeans,Clothing,Jeans,773,3539
+157,Puma Table,Home,Table,33263,40693
+158,Samsung Jeans,Clothing,Jeans,30940,32317
+159,Boat Shoes,Clothing,Shoes,18502,22390
+160,Loreal Shirt,Clothing,Shirt,16467,17894
+161,Nike Laptop,Electronics,Laptop,9106,9210
+162,Philips Tennis Racket,Sports,Tennis Racket,49631,52966
+163,Puma Shampoo,Beauty,Shampoo,30780,38761
+164,Lakme Gym Bag,Sports,Gym Bag,39883,44713
+165,Lakme Shampoo,Beauty,Shampoo,16677,21065
+166,Dell Jacket,Clothing,Jacket,2586,4380
+167,Apple Lamp,Home,Lamp,39809,47315
+168,Sony Programming,Books,Programming,1764,4440
+169,Nike Mobile,Electronics,Mobile,42041,48287
+170,Philips Football,Sports,Football,19990,23336
+171,Adidas Mobile,Electronics,Mobile,16775,20862
+172,Sony Shampoo,Beauty,Shampoo,13614,17509
+173,Dell Mobile,Electronics,Mobile,42144,49803
+174,Sony Table,Home,Table,30680,38229
+175,Apple Shampoo,Beauty,Shampoo,39406,41914
+176,Samsung Tennis Racket,Sports,Tennis Racket,31621,32276
+177,Puma Shoes,Clothing,Shoes,11075,11265
+178,Samsung Shoes,Clothing,Shoes,1817,6090
+179,Samsung Gym Bag,Sports,Gym Bag,29583,32987
+180,Sony Tennis Racket,Sports,Tennis Racket,40948,43723
+181,Adidas Laptop,Electronics,Laptop,49908,54001
+182,Philips Cricket Bat,Sports,Cricket Bat,36113,42182
+183,Dell Cricket Bat,Sports,Cricket Bat,24967,27771
+184,Dell Programming,Books,Programming,9519,15862
+185,lenovo smart watch,Electronics,Smart Watch,26047,27951
+186,Dell Table,Home,Table,12946,16473
+187,Nike Biography,Books,Biography,36051,40805
+188,  Apple Shirt  ,Clothing,Shirt,10908,18043
+189,Lakme Shampoo,Beauty,Shampoo,4531,6425
+190,Apple Jacket,Clothing,Jacket,5440,11023
+191,Mamaearth Lamp,Home,Lamp,30931,38859
+192,Philips Gym Bag,Sports,Gym Bag,43777,46551
+193,Lakme Perfume,Beauty,Perfume,39118,45593
+194,Nike Shirt,Clothing,Shirt,31879,34208
+195,Adidas Gym Bag,Sports,Gym Bag,47666,51081
+196,Lakme Gym Bag,Sports,Gym Bag,17084,18056
+197,Mamaearth Football,Sports,Football,14549,21864
+198,Apple Biography,Books,Biography,45903,50444
+199,Nike Comics,Books,Comics,37330,40143
+200,Boat Jeans,Clothing,Jeans,31734,39604
+201,Samsung Headphones,Electronics,Headphones,28749,32174
+202,Adidas Jacket,Clothing,Jacket,2205,5039
+203,HP Headphones,Electronics,Headphones,32084,39385
+204,Nike Biography,Books,Biography,28387,35445
+205,Sony Jeans,Clothing,Jeans,10632,15630
+206,Apple Novel,Books,Novel,5580,6354
+207,Puma Mobile,Electronics,Mobile,28284,32419
+208,Samsung Lipstick,Beauty,Lipstick,336,4296
+209,Mamaearth Shoes,Clothing,Shoes,24236,29896
+210,philips perfume,Beauty,Perfume,37686,38502
+211,Apple Lamp,Home,Lamp,2752,7626
+212,Mamaearth Laptop,Electronics,Laptop,12799,19366
+213,Apple Comics,Books,Comics,17719,22679
+214,Mamaearth Cricket Bat,Sports,Cricket Bat,40356,42786
+215,Dell Programming,Books,Programming,42370,48827
+216,Boat Smart Watch,Electronics,Smart Watch,14866,20610
+217,Philips Programming,Books,Programming,10869,16661
+218,Puma Programming,Books,Programming,20280,22785
+219,Lakme Comics,Books,Comics,15609,22215
+220,HP Lamp,Home,Lamp,15973,19851
+221,Apple Shirt,Clothing,Shirt,4050,8964
+222,Adidas Shirt,Clothing,Shirt,8464,9787
+223,Loreal Lamp,Home,Lamp,21168,26013
+224,Nike Comics,Books,Comics,8235,15952
+225,Loreal Perfume,Beauty,Perfume,13947,21383
+226,Dell Headphones,Electronics,Headphones,25811,27479
+227,Mamaearth Laptop,Electronics,Laptop,16726,20017
+228,Philips Comics,Books,Comics,26249,32769
+229,Dell Sofa,Home,Sofa,21624,27829
+230,Lakme Programming,Books,Programming,37330,44541
+231,Lenovo Mobile,Electronics,Mobile,27449,28312
+232,Samsung Chair,Home,Chair,9397,11463
+233,HP Programming,Books,Programming,47437,49015
+234,Loreal Headphones,Electronics,Headphones,22676,29331
+235,Apple Table,Home,Table,31840,38260
+236,HP Football,Sports,Football,9886,12709
+237,Puma Perfume,Beauty,Perfume,25804,33191
+238,  Nike Football  ,Sports,Football,48124,54779
+239,puma perfume,Beauty,Perfume,49730,53569
+240,Nike Table,Home,Table,38821,44057
+241,Mamaearth Smart Watch,Electronics,Smart Watch,27544,35254
+242,Sony Football,Sports,Football,38924,40849
+243,Mamaearth Table,Home,Table,15238,20813
+244,Lenovo Sofa,Home,Sofa,480,4927
+245,HP Jacket,Clothing,Jacket,26216,26334
+246,Puma Headphones,Electronics,Headphones,36018,43817
+247,Lakme Gym Bag,Sports,Gym Bag,39537,45070
+248,Puma Football,Sports,Football,43538,48162
+249,Nike Mobile,Electronics,Mobile,36949,42994
+250,Samsung Football,Sports,Football,45097,48715
+251,Adidas Lipstick,Beauty,Lipstick,1555,2469
+252,Dell Perfume,Beauty,Perfume,43287,45781
+253,Nike Biography,Books,Biography,13575,19648
+254,Lenovo Headphones,Electronics,Headphones,35741,41506
+255,Dell Laptop,Electronics,Laptop,8158,15246
+256,Lakme Shirt,Clothing,Shirt,49905,57741
+257,Lakme Shirt,Clothing,Shirt,29775,32640
+258,Puma Tennis Racket,Sports,Tennis Racket,8201,12243
+259,Sony Table,Home,Table,6231,9224
+260,Loreal Shoes,Clothing,Shoes,1394,8956
+261,Dell Laptop,Electronics,Laptop,9755,12657
+262,Adidas Lipstick,Beauty,Lipstick,49831,55104
+263,Lakme Sofa,Home,Sofa,49794,53436
+264,HP Tennis Racket,Sports,Tennis Racket,11178,12835
+265,Loreal Novel,Books,Novel,15060,21996
+266,Nike Comics,Books,Comics,21316,26679
+267,Adidas Laptop,Electronics,Laptop,12526,12656
+268,Philips Headphones,Electronics,Headphones,22398,25902
+269,Mamaearth Headphones,Electronics,Headphones,30574,31372
+270,Boat Laptop,Electronics,Laptop,9097,13075
+271,  Apple Gym Bag  ,Sports,Gym Bag,41156,47898
+272,HP Perfume,Beauty,Perfume,20651,25150
+273,Mamaearth Table,Home,Table,7184,7733
+274,Loreal Lipstick,Beauty,Lipstick,17126,23908
+275,Sony Shoes,Clothing,Shoes,27202,27911
+276,Adidas Table,Home,Table,20410,26560
+277,Lenovo Laptop,Electronics,Laptop,21679,23292
+278,Sony Shirt,Clothing,Shirt,7630,8509
+279,Apple Lamp,Home,Lamp,12168,16989
+280,Samsung Mobile,Electronics,Mobile,18321,20972
+281,Lakme Cricket Bat,Sports,Cricket Bat,46914,51510
+282,Puma Perfume,Beauty,Perfume,43316,45853
+283,Lenovo Novel,Books,Novel,27736,28597
+284,Dell Table,Home,Table,4705,5577
+285,Apple Cricket Bat,Sports,Cricket Bat,31459,31907
+286,Puma Sofa,Home,Sofa,7205,9470
+287,Apple Football,Sports,Football,22093,23572
+288,Philips Cricket Bat,Sports,Cricket Bat,1303,5255
+289,Dell Lipstick,Beauty,Lipstick,48556,56498
+290,Nike Lipstick,Beauty,Lipstick,546,6228
+291,Adidas Chair,Home,Chair,36085,38133
+292,HP Jacket,Clothing,Jacket,34788,37285
+293,Boat Comics,Books,Comics,19052,21358
+294,Lenovo Smart Watch,Electronics,Smart Watch,42689,47747
+295,Boat Smart Watch,Electronics,Smart Watch,12728,18945
+296,Mamaearth Jeans,Clothing,Jeans,42196,47049
+297,Dell Lipstick,Beauty,Lipstick,46800,47229
+298,Loreal Shirt,Clothing,Shirt,4931,10634
+299,Apple Shoes,Clothing,Shoes,37855,37978
+300,Mamaearth Face Wash,Beauty,Face Wash,45827,46039
+301,Adidas Chair,Home,Chair,9662,10966
+302,Sony Headphones,Electronics,Headphones,27143,30345
+303,Adidas Perfume,Beauty,Perfume,43658,45409
+304,Nike Jeans,Clothing,Jeans,23345,24985
+305,Adidas Lipstick,Beauty,Lipstick,32241,40116
+306,Samsung Headphones,Electronics,Headphones,28596,32493
+307,Puma Smart Watch,Electronics,Smart Watch,19144,20913
+308,Lenovo Chair,Home,Chair,18506,20056
+309,Lakme Smart Watch,Electronics,Smart Watch,34907,35541
+310,Philips Lamp,Home,Lamp,14900,18681
+311,Nike Sofa,Home,Sofa,17871,19285
+312,Samsung Biography,Books,Biography,15563,20948
+313,Apple Jeans,Clothing,Jeans,17742,23750
+314,Lenovo Table,Home,Table,43341,47672
+315,Samsung Shampoo,Beauty,Shampoo,4326,9072
+316,Lenovo Mobile,Electronics,Mobile,16721,23454
+317,PHILIPS LIPSTICK,Beauty,Lipstick,32773,37201
+318,Lakme Headphones,Electronics,Headphones,45396,51801
+319,Samsung Gym Bag,Sports,Gym Bag,31724,33408
+320,Loreal Perfume,Beauty,Perfume,28042,30199
+321,Philips Chair,Home,Chair,26542,32129
+322,Apple Gym Bag,Sports,Gym Bag,25098,29063
+323,Samsung Shoes,Clothing,Shoes,22229,25252
+324,Adidas Shoes,Clothing,Shoes,15114,18743
+325,Apple Laptop,Electronics,Laptop,37238,44677
+326,HP Novel,Books,Novel,30810,34288
+327,Apple Face Wash,Beauty,Face Wash,44827,49420
+328,Loreal Jeans,Clothing,Jeans,14259,16148
+329,Samsung Headphones,Electronics,Headphones,38702,42153
+330,HP Sofa,Home,Sofa,6326,9217
+331,Apple Cricket Bat,Sports,Cricket Bat,16604,23184
+332,Samsung Lipstick,Beauty,Lipstick,31395,37139
+333,Mamaearth Shirt,Clothing,Shirt,32283,39076
+334,Apple Programming,Books,Programming,6013,10239
+335,Samsung Gym Bag,Sports,Gym Bag,28190,33994
+336,  Puma Sofa  ,Home,Sofa,45809,47254
+337,Philips Laptop,Electronics,Laptop,18239,19916
+338,Loreal Jeans,Clothing,Jeans,3162,9262
+339,Dell Jeans,Clothing,Jeans,19533,23408
+340,Boat Biography,Books,Biography,9015,9372
+341,Sony Lipstick,Beauty,Lipstick,41299,47596
+342,Dell Sofa,Home,Sofa,45283,45901
+343,Nike Jacket,Clothing,Jacket,699,2202
+344,Philips Football,Sports,Football,27748,28737
+345,Apple Jeans,Clothing,Jeans,10275,13775
+346,Lenovo Jeans,Clothing,Jeans,46972,51333
+347,Adidas Perfume,Beauty,Perfume,10515,17404
+348,Adidas Football,Sports,Football,28045,29555
+349,Sony Programming,Books,Programming,17254,22320
+350,HP Face Wash,Beauty,Face Wash,26795,29316
+351,Apple Tennis Racket,Sports,Tennis Racket,38302,39346
+352,HP Shirt,Clothing,Shirt,48500,54336
+353,Nike Smart Watch,Electronics,Smart Watch,42775,47631
+354,Puma Shirt,Clothing,Shirt,11982,16497
+355,Samsung Jeans,Clothing,Jeans,33519,40650
+356,Puma Mobile,Electronics,Mobile,36394,37178
+357,Lenovo Cricket Bat,Sports,Cricket Bat,17314,20134
+358,Nike Shirt,Clothing,Shirt,32345,39410
+359,Loreal Jeans,Clothing,Jeans,41897,42729
+360,Apple Tennis Racket,Sports,Tennis Racket,27864,33869
+361,Adidas Headphones,Electronics,Headphones,10989,16670
+362,  Samsung Table  ,Home,Table,955,7445
+363,Mamaearth Face Wash,Beauty,Face Wash,47588,47936
+364,Apple Shirt,Clothing,Shirt,45285,46944
+365,Lakme Smart Watch,Electronics,Smart Watch,35525,40929
+366,Loreal Face Wash,Beauty,Face Wash,10015,13009
+367,Lakme Face Wash,Beauty,Face Wash,33231,38619
+368,Dell Lamp,Home,Lamp,5773,10343
+369,Lenovo Tennis Racket,Sports,Tennis Racket,32387,36765
+370,Dell Mobile,Electronics,Mobile,19138,23345
+371,Nike Headphones,Electronics,Headphones,30928,31358
+372,SAMSUNG NOVEL,Books,Novel,39469,39969
+373,Nike Chair,Home,Chair,22832,28147
+374,Puma Lamp,Home,Lamp,10027,13446
+375,Nike Mobile,Electronics,Mobile,9982,16616
+376,Sony Shoes,Clothing,Shoes,43540,44041
+377,Loreal Jacket,Clothing,Jacket,2944,7570
+378,Samsung Shampoo,Beauty,Shampoo,26855,28658
+379,Boat Tennis Racket,Sports,Tennis Racket,23470,30013
+380,Dell Football,Sports,Football,4428,5025
+381,Mamaearth Laptop,Electronics,Laptop,25868,28039
+382,Lenovo Laptop,Electronics,Laptop,41197,47304
+383,Puma Lipstick,Beauty,Lipstick,31240,35423
+384,Nike Jeans,Clothing,Jeans,47266,53623
+385,Nike Face Wash,Beauty,Face Wash,17750,19834
+386,Loreal Mobile,Electronics,Mobile,26419,31590
+387,Puma Lipstick,Beauty,Lipstick,37648,43033
+388,  Nike Perfume  ,Beauty,Perfume,19702,21101
+389,Sony Biography,Books,Biography,47533,53574
+390,Apple Biography,Books,Biography,20488,28458
+391,Mamaearth Smart Watch,Electronics,Smart Watch,2872,9706
+392,Dell Shampoo,Beauty,Shampoo,23444,31294
+393,Dell Table,Home,Table,26629,33189
+394,Sony Perfume,Beauty,Perfume,35816,41512
+395,Philips Shirt,Clothing,Shirt,5744,9692
+396,Mamaearth Programming,Books,Programming,19244,23546
+397,Lakme Cricket Bat,Sports,Cricket Bat,15002,21088
+398,Mamaearth Jeans,Clothing,Jeans,18250,21066
+399,Boat Jacket,Clothing,Jacket,45891,46495
+400,Lenovo Table,Home,Table,45211,50546
+401,HP Chair,Home,Chair,14364,16175
+402,Mamaearth Chair,Home,Chair,34685,36896
+403,Nike Face Wash,Beauty,Face Wash,47939,49856
+404,Apple Laptop,Electronics,Laptop,46816,51830
+405,Puma Novel,Books,Novel,3367,8435
+406,Philips Shirt,Clothing,Shirt,44684,46405
+407,  Philips Jacket  ,Clothing,Jacket,21369,23318
+408,Loreal Novel,Books,Novel,5235,13168
+409,Lakme Tennis Racket,Sports,Tennis Racket,21659,24948
+410,Lakme Tennis Racket,Sports,Tennis Racket,36411,42411
+411,  Dell Laptop  ,Electronics,Laptop,13877,20697
+412,Sony Laptop,Electronics,Laptop,27398,28415
+413,HP Cricket Bat,Sports,Cricket Bat,45314,48504
+414,Lenovo Shampoo,Beauty,Shampoo,47992,50415
+415,LOREAL CRICKET BAT,Sports,Cricket Bat,27430,35039
+416,Nike Football,Sports,Football,24311,29406
+417,Apple Shirt,Clothing,Shirt,20596,25641
+418,Apple Headphones,Electronics,Headphones,35538,38032
+419,Sony Comics,Books,Comics,1928,6833
+420,Dell Biography,Books,Biography,47579,48970
+421,Apple Football,Sports,Football,15937,19733
+422,Apple Sofa,Home,Sofa,6244,8434
+423,Dell Perfume,Beauty,Perfume,34257,38748
+424,  Mamaearth Face Wash  ,Beauty,Face Wash,24240,29504
+425,Adidas Chair,Home,Chair,26119,29730
+426,Puma Face Wash,Beauty,Face Wash,45661,46547
+427,lakme jacket,Clothing,Jacket,1377,9168
+428,Puma Shirt,Clothing,Shirt,13515,16574
+429,Mamaearth Cricket Bat,Sports,Cricket Bat,1987,5251
+430,Sony Novel,Books,Novel,49034,50877
+431,Lenovo Jeans,Clothing,Jeans,22517,25531
+432,Nike Biography,Books,Biography,37689,38680
+433,Lakme Comics,Books,Comics,36990,42366
+434,Puma Football,Sports,Football,17487,19965
+435,HP Laptop,Electronics,Laptop,20123,27565
+436,Lakme Tennis Racket,Sports,Tennis Racket,12918,15824
+437,Nike Biography,Books,Biography,3222,5058
+438,Samsung Table,Home,Table,6915,12479
+439,Boat Face Wash,Beauty,Face Wash,3312,7568
+440,Lakme Cricket Bat,Sports,Cricket Bat,19162,21602
+441,Lenovo Smart Watch,Electronics,Smart Watch,38400,45113
+442,Lakme Tennis Racket,Sports,Tennis Racket,41126,45917
+443,Mamaearth Perfume,Beauty,Perfume,36421,41778
+444,Apple Tennis Racket,Sports,Tennis Racket,34423,36944
+445,Philips Sofa,Home,Sofa,37474,39607
+446,Lenovo Cricket Bat,Sports,Cricket Bat,1594,8020
+447,Dell Chair,Home,Chair,12676,13663
+448,Lakme Shoes,Clothing,Shoes,9459,15918
+449,  Nike Novel  ,Books,Novel,40977,46808
+450,Dell Tennis Racket,Sports,Tennis Racket,26282,31626
+451,Philips Novel,Books,Novel,29166,30690
+452,Puma Chair,Home,Chair,39962,41867
+453,Philips Perfume,Beauty,Perfume,16188,23648
+454,MAMAEARTH SHIRT,Clothing,Shirt,18858,25741
+455,Philips Sofa,Home,Sofa,7920,9187
+456,Sony Tennis Racket,Sports,Tennis Racket,2162,6761
+457,Boat Jacket,Clothing,Jacket,23709,28269
+458,Apple Programming,Books,Programming,36285,39517
+459,Philips Sofa,Home,Sofa,4971,12635
+460,Lakme Smart Watch,Electronics,Smart Watch,28115,29019
+461,Lakme Lipstick,Beauty,Lipstick,12670,19382
+462,Lakme Gym Bag,Sports,Gym Bag,8076,10239
+463,Puma Sofa,Home,Sofa,9961,12032
+464,  Philips Lamp  ,Home,Lamp,2858,9959
+465,LAKME JACKET,Clothing,Jacket,14862,14970
+466,Boat Tennis Racket,Sports,Tennis Racket,25803,33335
+467,Apple Laptop,Electronics,Laptop,25574,29801
+468,Mamaearth Mobile,Electronics,Mobile,40300,43143
+469,Apple Laptop,Electronics,Laptop,24788,29211
+470,Apple Perfume,Beauty,Perfume,19404,24663
+471,Samsung Perfume,Beauty,Perfume,29896,33336
+472,Mamaearth Lipstick,Beauty,Lipstick,38372,46249
+473,Samsung Biography,Books,Biography,48039,51156
+474,Samsung Lamp,Home,Lamp,32657,36366
+475,Dell Sofa,Home,Sofa,4013,9964
+476,Lakme Jacket,Clothing,Jacket,27177,32777
+477,Samsung Shoes,Clothing,Shoes,36602,43244
+478,Nike Comics,Books,Comics,3325,4743
+479,Lakme Cricket Bat,Sports,Cricket Bat,17471,17757
+480,Apple Gym Bag,Sports,Gym Bag,12997,14722
+481,Dell Shirt,Clothing,Shirt,20791,23822
+482,Sony Jeans,Clothing,Jeans,26500,27490
+483,Samsung Smart Watch,Electronics,Smart Watch,13629,20688
+484,APPLE SHIRT,Clothing,Shirt,39713,41151
+485,Lakme Mobile,Electronics,Mobile,27849,29898
+486,Dell Perfume,Beauty,Perfume,30853,35014
+487,Apple Sofa,Home,Sofa,12677,14564
+488,lenovo perfume,Beauty,Perfume,17540,22494
+489,Samsung Shoes,Clothing,Shoes,9430,16608
+490,Mamaearth Cricket Bat,Sports,Cricket Bat,6394,10026
+491,Adidas Mobile,Electronics,Mobile,13627,19314
+492,Adidas Smart Watch,Electronics,Smart Watch,35208,36195
+493,Philips Comics,Books,Comics,33845,35340
+494,Mamaearth Laptop,Electronics,Laptop,10782,16117
+495,Apple Biography,Books,Biography,41374,43058
+496,Boat Biography,Books,Biography,35990,38876
+497,HP Comics,Books,Comics,49868,53457
+498,Apple Jeans,Clothing,Jeans,33970,35521
+499,Samsung Sofa,Home,Sofa,22382,24357
+500,Adidas Novel,Books,Novel,46259,51180
